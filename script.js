@@ -61,7 +61,6 @@ function createParticles() {
   }, 500);
 }
 
-// Create particle animation container
 const style = document.createElement('style');
 style.innerHTML = `
 @keyframes flip {
