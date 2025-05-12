@@ -8,7 +8,6 @@ body {
   overflow: hidden;
 }
 
-
 .container {
   text-align: center;
   margin-top: 50px;
@@ -21,15 +20,7 @@ body {
   margin-left: auto;
   margin-right: auto;
   box-shadow: 0 8px 30px rgba(0, 0, 0, 0.4);
-  width: 90%; 
 }
-
-@media (max-width: 480px) {
-  .container {
-    padding: 30px 15px;
-    margin: 30px 10px;
-    border-radius: 20px;
-  }
 
 .avatar {
   width: 150px;
